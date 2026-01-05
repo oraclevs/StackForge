@@ -1,0 +1,6 @@
+target
+templates
+Makefile
+t.md
+.vscode
+Cargo.lock

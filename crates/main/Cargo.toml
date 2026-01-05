@@ -1,0 +1,14 @@
+[package]
+name = "stackforge"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+core = {path = "../core"}
+rust={path = "../rust"}
+python={path = "../python"}
+flutter={path = "../flutter"}
+typescript={path = "../typescript"}
+clap = {version = "4.5.53", features = ["derive"]}
+colored = "3.0.0"
+anyhow = "1.0.100"
